@@ -1,7 +1,7 @@
 {
-  "name": "npm-just-in-time-version-test",
+  "name": "npm-test-in-time-version-test",
   "version": "0.0.0",
   "scripts": {
-    "prepublish": "echo '{\"name\": \"npm-bug-test\", \"version\": \"0.0.0\"}' > package.json"
+    "prepublish": "echo '{\"name\": \"npm-test-in-time-version-test\", \"version\": \"0.0.0\"}' > package.json"
   }
 }
