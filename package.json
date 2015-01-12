@@ -1,0 +1,6 @@
+{
+  "name": "npm-bug-test",
+  "scripts": {
+    "prepublish": "echo '{\"name\": \"npm-bug-test\", \"version\": \"0.0.0\"}' > package.json"
+  }
+}
